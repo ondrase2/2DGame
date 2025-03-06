@@ -11,4 +11,4 @@ set user layer 3 to player and layer 6 to minimap
 
 <br><br>
 ### cloning normaly should work but is not tested
-
+### tested with unity 2021.3.13
