@@ -2,9 +2,11 @@
 # importing from unitypackage
 import assert
 <br>
-set keybinds for axis:up-down left-right
+set keybinds for axis:up-down left-right rotation
+set sorting layer1 to minimap
+set user layer 3 to player and layer 6 to minimap
 <br>
-some layers are missing so you have to fix those :P
 
 <br><br>
 ### cloning normaly should work but is not tested
+
